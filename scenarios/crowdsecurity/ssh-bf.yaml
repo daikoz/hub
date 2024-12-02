@@ -31,8 +31,8 @@ leakspeed: 10s
 capacity: 5
 blackhole: 1m
 labels:
-  service: ssh
   remediation: true
+  service: ssh
   confidence: 3
   spoofable: 0
   classification:
